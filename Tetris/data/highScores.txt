@@ -1,0 +1,3 @@
+logan :25730:5
+Howard:10000:9
+Otasan:7500:5
